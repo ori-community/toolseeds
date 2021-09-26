@@ -1,3 +1,5 @@
+// Config: {"version": "1.0.0"}
+
 // Created through this search replace over loc_data.csv:
 // s/(\w+\.\w+),[^,]*,[^,]*,[^,]*,[^,]*,\s*(\d+),[^,]*,\s*(\d+(=\d+)?),[^,]*,.*/$2|$3|6|$1
 21786|60210|6|MarshSpawn.RockHC
