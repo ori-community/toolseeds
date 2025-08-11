@@ -26,6 +26,7 @@
 24922|62138|6|MarshSpawn.CrusherSwimEX
 48248|18458=4|6|MarshSpawn.TokkTabletQuest
 23987|9864|6|MarshSpawn.RecklessShard
+21786|43668|6|MarshSpawn.MokkEX
 21786|61706|6|MarshSpawn.FangEC
 14019|27539|6|MarshSpawn.FangQI
 14019|15983=3|6|MarshSpawn.MokkFangQuest
@@ -38,7 +39,6 @@
 48248|45538|6|MidnightBurrows.LupoMap
 24922|46311|6|MidnightBurrows.DeflectorShard
 14019|52747|6|MidnightBurrows.TabletQI
-21786|43668|6|HowlsDen.UpperEX
 21786|28908|6|HowlsDen.RightHC
 9593|61304|6|HowlsDen.LeftHC
 21786|22068|6|HowlsDen.AboveDoorKS
@@ -56,6 +56,7 @@
 9593|27562|6|MarshPastOpher.TrialEC
 21786|20194|6|MarshPastOpher.TrialHC
 21786|10413|6|MarshPastOpher.TrialRightEX
+44964|45951=2|6|MarshPastOpher.SpiritTrial
 21786|18109|6|MarshPastOpher.CombatShrine
 9593|59344|6|MarshPastOpher.SwingPoleEX
 21786|27433|6|MarshPastOpher.LeftEyestone
@@ -73,6 +74,7 @@
 937|24175|6|WestHollow.SwimEC
 48248|3638|6|WestHollow.LupoMap
 937|2463|6|WestHollow.TrialHC
+44964|25545=2|6|WestHollow.SpiritTrial
 937|48192|6|WestHollow.BelowLupoEX
 937|61744|6|WestHollow.AboveDashEX
 937|37926|6|WestHollow.DashRightEX
@@ -93,6 +95,7 @@
 58674|9583|6|EastHollow.SilentSwimEC
 23987|62973|6|EastHollow.SplinterShard
 46462|59806|6|EastHollow.ForestsVoice
+937|34641=4|6|EastHollow.WellspringDoneTalk
 46462|37897|6|EastHollow.KwolokSwimOre
 46462|29054|6|EastHollow.KwolokSwimLeftEX
 46462|20780|6|EastHollow.KwolokSwimRightEX
@@ -100,8 +103,7 @@
 14019|26318=2|6|GladesTown.HandToHandPouch
 14019|26318=6|6|GladesTown.HandToHandLantern
 14019|26318=9|6|GladesTown.HandToHandCanteen
-14019|26318=4|6|GladesTown.HandToHandSoup
-14019|27804=2|6|GladesTown.FamilyReunionKey
+6|500|6|GladesTown.FamilyReunionKey
 14019|2782|6|GladesTown.AcornQI
 14019|33776=3|6|GladesTown.MokiAcornQuest
 42178|52786|6|GladesTown.HoleHutEC
@@ -142,6 +144,7 @@
 53632|1911|6|OuterWellspring.RightWallEC
 53632|51706|6|OuterWellspring.RightWallEX
 37858|58286|6|OuterWellspring.TrialOre
+44964|11512=2|6|OuterWellspring.SpiritTrial
 23987|12104|6|OuterWellspring.UltraGrappleShard
 53632|17403|6|OuterWellspring.HiddenHC
 53632|42264|6|OuterWellspring.EntranceRoofEX
@@ -175,7 +178,7 @@
 37858|32932|6|InnerWellspring.SwimOre
 37858|56444|6|InnerWellspring.EscapeRevisitEX
 37858|12379|6|InnerWellspring.WaterEscape
-945|10682|6|PoolsApproach.CurrentEX
+945|10682|6|PoolsApproach.MarshPathCurrentEX
 945|14530|6|PoolsApproach.AboveWheelEX
 945|37243|6|PoolsApproach.MillPathHC
 945|21334|6|PoolsApproach.MillPathEC
@@ -183,7 +186,7 @@
 5377|34852|6|EastPools.RightOre
 14019|53103|6|EastPools.KwolokAmuletQI
 5377|13832|6|EastPools.TwoCrushersEX
-5377|17396|6|EastPools.CurrentEX
+5377|17396|6|EastPools.BubbleCurrentEX
 5377|27204|6|EastPools.BelowLeverEX
 5377|19694|6|EastPools.AboveDoorOre
 5377|63201|6|EastPools.PurpleWallHC
@@ -192,6 +195,7 @@
 5377|12235|6|EastPools.LupoOre
 23987|25996|6|EastPools.UltraBashShard
 5377|45774|6|EastPools.FightRoomHC
+44964|54686=2|6|EastPools.SpiritTrial
 5377|40328|6|EastPools.EnergyHarvestShard
 5377|35440|6|EastPools.LupoEX
 48248|1557|6|EastPools.LupoMap
@@ -204,10 +208,10 @@
 5377|33110|6|UpperPools.FishPoolEX
 5377|31434|6|UpperPools.FishPoolOre
 5377|1600|6|UpperPools.BubblesEC
-5377|628|6|UpperPools.LeftBubblesEX
-5377|21860|6|UpperPools.RightBubblesEX
+5377|628|6|UpperPools.RightBubblesEX
+5377|21860|6|UpperPools.LeftBubblesEX
 0|104|6|UpperPools.SwimDashTree
-5377|52791|6|UpperPools.CurrentEX
+5377|52791|6|UpperPools.SwimDashCurrentEX
 5377|33180|6|UpperPools.RoofEX
 5377|32750|6|UpperPools.WaterfallEC
 5377|62180|6|WestPools.BurrowEX
@@ -238,6 +242,7 @@
 58674|23186|6|WoodsMain.BelowKeystonesEX
 58674|64057|6|WoodsMain.BehindDoorRoofEX
 58674|17974|6|WoodsMain.PetrifiedHowlEX
+44964|22703=2|6|WoodsMain.SpiritTrial
 23987|25183|6|WoodsMain.OverflowShard
 58674|29265|6|WoodsMain.CombatShrine
 58674|32647|6|WoodsMain.ShrineEX
@@ -269,7 +274,9 @@
 28895|37444|6|LowerReach.MiddleLeftKS
 28895|18358|6|LowerReach.BottomLeftKS
 28895|22761|6|LowerReach.TrialEX
+44964|23661=2|6|LowerReach.SpiritTrial
 23987|897|6|LowerReach.CatalystShard
+14019|26318=4|6|LowerReach.HandToHandSoup
 23987|19630|6|UpperReach.LifeForceShard
 28287|32414|6|UpperReach.LifeForceEX
 28895|1053|6|UpperReach.LowerKS
@@ -299,6 +306,7 @@
 18793|6573|6|UpperDepths.HiveEX
 18793|63291|6|UpperDepths.ForestsEyes
 18793|62694|6|LowerDepths.RaceStartHC
+44964|28552=2|6|LowerDepths.SpiritTrial
 18793|836|6|LowerDepths.BelowDoorOre
 23987|986|6|LowerDepths.SpiritSurgeShard
 14019|26318=7|6|LowerDepths.HandToHandSilk
@@ -311,6 +319,7 @@
 7228|54494|6|LowerWastes.WestTPOre
 7228|56821|6|LowerWastes.PurpleWallEX
 7228|52086|6|LowerWastes.SunsetViewEX
+44964|30767=2|6|LowerWastes.SpiritTrial
 20120|46919|6|LowerWastes.SandBridgeOre
 14019|58342|6|LowerWastes.EerieGemQI
 20120|11785|6|LowerWastes.MuncherTunnelEC
