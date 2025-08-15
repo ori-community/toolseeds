@@ -1,2 +1,2 @@
-// Config: {"version": "1.0.0"}
 // Format Version: 1.0.0
+// Config: {"worldSettings":[{"spawn":"LowerWastes.Shovel","difficulty":"Unsafe","tricks":[],"hard":false,"goals":[],"headers":[],"headerConfig":[],"inlineHeaders":[]}],"disableLogicFilter":false,"online":false,"createGame":"None"}

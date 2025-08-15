@@ -1,5 +1,5 @@
-// Config: {"version": "1.0.0"}
 // Format Version: 1.0.0
+// Config: {"worldSettings":[{"spawn":"LowerWastes.Shovel","difficulty":"Unsafe","tricks":[],"hard":false,"goals":[],"headers":[],"headerConfig":[],"inlineHeaders":[]}],"disableLogicFilter":false,"online":false,"createGame":"None"}
 
 // Created through this search replace over loc_data.csv:
 // s/(\w+\.\w+),[^,]*,[^,]*,[^,]*,[^,]*,\s*(\d+),[^,]*,\s*(\d+(=\d+)?),[^,]*,.*/$2|$3|6|$1
